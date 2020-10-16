@@ -1,0 +1,10 @@
+<!--
+  ~ Created by Chetan Y G on 16/10/20 7:54 PM
+  ~ Copyright (c) 2020 .
+  -->
+
+<resources>
+    <string name="app_name">DevFest2020</string>
+
+    <string name="error_msg">Something went wrong!</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Created by Chetan Y G on 16/10/20 7:54 PM
+  ~ Copyright (c) 2020 .
+  -->
+
+<resources>
+    <color name="colorPrimary">#B30000</color>
+    <color name="colorPrimaryDark">#980304</color>
+    <color name="colorAccent">#9EBE95</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="backgroundColor">#EDEEEE</color>
+</resources>
